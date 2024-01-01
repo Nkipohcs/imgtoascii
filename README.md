@@ -16,6 +16,6 @@ Python 3
 
 ## Installation
 
-'''
+```
 git clone https://github.com/Nkipohcs/imgtoascii.git && cd imgtoascii && pip install -r 
-'''
+```
