@@ -18,7 +18,7 @@ git clone https://github.com/Nkipohcs/imgtoascii.git && cd imgtoascii && pip ins
 sudo python3 imgtoascii.py
 ```
 
-## Screen
+## Screenshot
 
 ![image](https://github.com/Nkipohcs/imgtoascii/assets/117274957/09ccd49f-11f3-4905-9f9c-f942a16d95f8)
 
