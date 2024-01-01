@@ -1,7 +1,7 @@
 
 # Convertisseur d'Image en ASCII
 
-Ce projet est une application graphique qui permet de convertir des images en art ASCII. L'utilisateur peut importer une image via une interface graphique, et l'application convertira l'image en une représentation en caractères ASCII.
+Permet de convertir des images en art ASCII.
 
 ## Prérequis
 
