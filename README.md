@@ -19,3 +19,8 @@ Python 3
 ```
 git clone https://github.com/Nkipohcs/imgtoascii.git && cd imgtoascii && pip install -r requirements.txt
 ```
+## Start
+
+```
+sudo python3 imgtoascii.py
+```
