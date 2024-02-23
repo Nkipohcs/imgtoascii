@@ -5,7 +5,7 @@ from PIL import Image
 import signal
 
 def image_to_ascii(image, new_width):
-    ASCII_CHARS = ["@", "#", "S", "%", "?", "*", "+", ";", ":", ",", "."]
+    ASCII_CHARS = ["@", "#", "S", "%", "?", "*", "+", ";", ":", ",", " "]
     width, height = image.size
     aspect_ratio = height / width
     new_height = aspect_ratio * new_width * 0.55
